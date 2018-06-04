@@ -1,0 +1,1 @@
+"./drivers/rit128x96x4.obj" "./string.obj" "./startup_ccs.obj" "./dsputils.obj" "./arkanoid.obj" "./alvutils.obj" -l"libc.a" -l"C:/StellarisWare/boards/ek-lm3s8962/hello/ccs/../../../../driverlib/ccs-cm3/Debug/driverlib-cm3.lib" "../arkanoid_ccs.cmd" 
